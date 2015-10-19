@@ -1,0 +1,4 @@
+source "htttp://rubygems.org"
+group :development, :test do
+  gem 'spec-rails'
+end
